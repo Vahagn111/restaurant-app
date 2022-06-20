@@ -5506,10 +5506,7 @@
     "escape-string-regexp" "2.0.0"
     "invariant" "2.2.4"
 
-"react-native-yamap@^4.0.10":
-  "integrity" "sha512-4JRHAl35ZXcYI2F7w4soGWawYBNYqU2sPm+kIVvrBcwTsCWpug/akUijstX2zW1XyHgYG6jfLQ+mddThIrHc6w=="
-  "resolved" "https://registry.npmjs.org/react-native-yamap/-/react-native-yamap-4.0.12.tgz"
-  "version" "4.0.12"
+
 
 "react-native@*", "react-native@^0.0.0-0 || 0.60 - 0.68 || 1000.0.0", "react-native@>=0.42.0", "react-native@>=0.44.3", "react-native@>=0.50.0", "react-native@>=0.55", "react-native@>=0.64.0-rc.0 || 0.0.0-*", "react-native@0.64.3":
   "integrity" "sha512-2OEU74U0Ek1/WeBzPbg6XDsCfjF/9fhrNX/5TFgEiBKd5mNc9LOZ/OlMmkb7iues/ZZ/oc51SbEfLRQdcW0fVw=="
